@@ -1,0 +1,4 @@
+For video-1.mp4:
+    colorLower = (125, 65, 41)
+    colorUpper = (159, 255, 255)
+    bufferSize = 20
