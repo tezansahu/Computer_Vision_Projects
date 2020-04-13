@@ -89,7 +89,7 @@ while True:
 
 	# show the frame to our screen
 	cv2.imshow("Result", frame)
-	key = cv2.waitKey(10) & 0xFF
+	key = cv2.waitKey(30) & 0xFF
 
 	# if the 'q' key is pressed, stop the loop
 	if key == ord("q"):
