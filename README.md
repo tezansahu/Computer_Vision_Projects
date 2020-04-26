@@ -177,6 +177,7 @@ __Code:__
 - [Code for Wink Detection](8_Eye_Blink_Detector/wink_detector.py)
 
 __Result:__
+
 ![](8_Eye_Blink_Detector/results/blink_res.gif)
 
 
@@ -187,6 +188,7 @@ The same concept of EAR can be extended to build a Drowsiness Detector (which co
 Here too, the average EAR of both eyes is calculated. Once this value falls below a threshold continuously for a certain number of frames (obviously much longer than the threshold frames set for blink detection), an alarm is set off to try & awake the drowsy person in front of the camera.
 
 __Code:__
+
 [Code for Drowsiness Detector](9_Drowsiness_Detector/detect_drowsiness.py)
 
 __Result:__
