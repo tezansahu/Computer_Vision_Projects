@@ -8,7 +8,7 @@
 ***
 
 ## List of projects in this repository:
-1. [Face Detection with OpenCV & Deep Learning](#face-detection-with-opencv-&-deep-learning)
+1. [Face Detection with OpenCV & Deep Learning](#face-detection-with-opencv--deep-learning)
 2. [Face Blurring](#face-blurring)
 3. [Document Scanner](#document-scanner)
 4. [OMR Test Grader](#omr-test-grader)
@@ -38,8 +38,8 @@ __Code:__
 
 __Results:__
 
-![](1_Face_Detection_with_OpenCV_and_Deep_Learning/results/img_1_res.png)
-![](1_Face_Detection_with_OpenCV_and_Deep_Learning/results/img_2_res.png)
+<img src="1_Face_Detection_with_OpenCV_and_Deep_Learning/results/img_1_res.png" width="500">
+<img src="1_Face_Detection_with_OpenCV_and_Deep_Learning/results/img_2_res.png" width="500">
 
 ## Face Blurring
 
@@ -59,13 +59,13 @@ __Results:__
 
 - __Gaussian Blur:__
 
-  ![](2_Face_Blurring/results/img_01_res1.png)
-  ![](2_Face_Blurring/results/img_02_res1.png)
+  <img src="2_Face_Blurring/results/img_01_res1.png" width="800">
+  <img src="2_Face_Blurring/results/img_02_res1.png" width="800">
 
 - __Pixelated Blur:__
 
-  ![](2_Face_Blurring/results/img_01_res2.png)
-  ![](2_Face_Blurring/results/img_02_res2.png)
+  <img src="2_Face_Blurring/results/img_01_res2.png" width="800">
+  <img src="2_Face_Blurring/results/img_02_res2.png" width="800">
 
 ## Document Scanner
 
@@ -82,10 +82,10 @@ __Code:__
 __Results:__
 
 | Image | Detected Contour | Scanned Document |
-| :--: | :--: | :--: |
-|![](3_Document_Scanner/test_images/img_1.jpg) | ![](3_Document_Scanner/results/img_1_contour.png) | ![](3_Document_Scanner/results/img_1_doc.png) |
-|![](3_Document_Scanner/test_images/img_2.jpg) | ![](3_Document_Scanner/results/img_2_contour.png) | ![](3_Document_Scanner/results/img_2_doc.png) |
-|![](3_Document_Scanner/test_images/img_3.jpg) | ![](3_Document_Scanner/results/img_3_contour.png) | ![](3_Document_Scanner/results/img_3_doc.png) |
+| :---: | :---: | :---: |
+|<img src="3_Document_Scanner/test_images/img_1.jpg" width="250"> | <img src="3_Document_Scanner/results/img_1_contour.png" width="250"> | <img src="3_Document_Scanner/results/img_1_doc.png" width="250"> |
+|<img src="3_Document_Scanner/test_images/img_2.jpg" width="250"> | <img src="3_Document_Scanner/results/img_2_contour.png" width="250"> | <img src="3_Document_Scanner/results/img_2_doc.png" width="250"> |
+|<img src="3_Document_Scanner/test_images/img_3.jpg" width="250"> | <img src="3_Document_Scanner/results/img_3_contour.png" width="250"> | <img src="3_Document_Scanner/results/img_3_doc.png" width="250"> |
 
 ## OMR Test Grader
 
@@ -104,9 +104,9 @@ __Code:__
 
 __Results:__
 ||||
-| :--: | :--: | :--: |
-| ![](4_OMR_Test_Grader/results/test_01_res.png) | ![](4_OMR_Test_Grader/results/test_02_res.png) | ![](4_OMR_Test_Grader/results/test_03_res.png) |
-| ![](4_OMR_Test_Grader/results/test_04_res.png) | ![](4_OMR_Test_Grader/results/test_05_res.png) | ![](4_OMR_Test_Grader/results/test_06_res.png) |
+| :---: | :---: | :---: |
+| <img src="4_OMR_Test_Grader/results/test_01_res.png" width="250"> | <img src="4_OMR_Test_Grader/results/test_02_res.png" width="250"> | <img src="4_OMR_Test_Grader/results/test_03_res.png" width="250"> |
+| <img src="4_OMR_Test_Grader/results/test_04_res.png" width="250"> | <img src="4_OMR_Test_Grader/results/test_05_res.png" width="250"> | <img src="4_OMR_Test_Grader/results/test_06_res.png" width="250"> |
 
 
 ## Ball Tracker
@@ -121,7 +121,7 @@ __Code:__
 
 __Results:__
 
-![](5_Ball_Tracking/results/video-1-res.gif)
+<img src="5_Ball_Tracking/results/video-1-res.gif" width="700">
 
 _Here, the range of HSV values for the violet ball is:_
 - _colorLower = (125, 65, 41)_
@@ -139,11 +139,11 @@ __Code:__
 
 __Results:__
 
-![](6_Object_Size_Measurement/results/example_01_res.png)
-![](6_Object_Size_Measurement/results/example_02_res.png)
+<img src="6_Object_Size_Measurement/results/example_01_res.png" width="700">
+<img src="6_Object_Size_Measurement/results/example_02_res.png" width="700">
 
-![](6_Object_Size_Measurement/results/example_03_res.png)
-![](6_Object_Size_Measurement/results/example_04_res.png)
+<img src="6_Object_Size_Measurement/results/example_03_res.png" width="700">
+<img src="6_Object_Size_Measurement/results/example_04_res.png" width="700">
 
 ## Facial Landmarks Detector
 
@@ -159,8 +159,8 @@ __Code:__
 
 __Results:__
 
-![](7_Facial_Landmarks_Detector/results/img_01_res.png)
-![](7_Facial_Landmarks_Detector/results/img_02_res.png)
+<img src="7_Facial_Landmarks_Detector/results/img_01_res.png" width="500">
+<img src="7_Facial_Landmarks_Detector/results/img_02_res.png" width="500">
 
 ## Eye Blink Detector
 
@@ -178,7 +178,7 @@ __Code:__
 
 __Result:__
 
-![](8_Eye_Blink_Detector/results/blink_res.gif)
+<img src="8_Eye_Blink_Detector/results/blink_res.gif" width="600">
 
 
 ## Drowsiness Detector
@@ -193,7 +193,7 @@ __Code:__
 
 __Result:__
 
-![](9_Drowsiness_Detector/results/res-webcam.gif)
+<img src="9_Drowsiness_Detector/results/res-webcam.gif" width="600">
 
 _The video with the sounding of the alarm on drowsiness detection can be found [here](9_Drowsiness_Detector/results/res-webcam.mp4)._
 
@@ -211,14 +211,16 @@ __Code:__
 
 __Results:__
 
-![](10_Image_Classification/results/img_01_res.png)
+<img src="10_Image_Classification/results/img_01_res.png" width="700">
 
-![](10_Image_Classification/results/img_02_res.png)
+<img src="10_Image_Classification/results/img_02_res.png" width="700">
 
-![](10_Image_Classification/results/img_03_res.png)
+<img src="10_Image_Classification/results/img_03_res.png" width="700">
 
-![](10_Image_Classification/results/img_04_res.png)
+<img src="10_Image_Classification/results/img_04_res.png" width="700">
 
-![](10_Image_Classification/results/img_05_res.png)
+<img src="10_Image_Classification/results/img_05_res.png" width="700">
+
 ***
+
 <p align='center'>Created with :heart: by <a href="https://www.linkedin.com/in/tezan-sahu/">Tezan Sahu</a></p>
