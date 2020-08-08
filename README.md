@@ -107,10 +107,10 @@ __Code:__
 
 __Results:__
 
-<img src="4_OMR_Test_Grader/results/test_01_res.png" width="250"><img src="4_OMR_Test_Grader/results/test_02_res.png" width="250"><img src="4_OMR_Test_Grader/results/test_03_res.png" width="250">
+<img src="4_OMR_Test_Grader/results/test_01_res.png" width="200"><img src="4_OMR_Test_Grader/results/test_02_res.png" width="200"><img src="4_OMR_Test_Grader/results/test_03_res.png" width="200">
 
 
-<img src="4_OMR_Test_Grader/results/test_04_res.png" width="250"><img src="4_OMR_Test_Grader/results/test_05_res.png" width="250"><img src="4_OMR_Test_Grader/results/test_06_res.png" width="250"> |
+<img src="4_OMR_Test_Grader/results/test_04_res.png" width="200"><img src="4_OMR_Test_Grader/results/test_05_res.png" width="200"><img src="4_OMR_Test_Grader/results/test_06_res.png" width="200">
 
 
 ## Ball Tracker
