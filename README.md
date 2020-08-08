@@ -1,7 +1,7 @@
 <h1 align="center">Computer Vision Projects</h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/Made%20With-Python-blue"></img>
-    <img src="https://img.shields.io/badge/Made%20With-OpenCV-red"></img>
+    <img src="https://img.shields.io/badge/Made%20With-Python-blue">
+    <img src="https://img.shields.io/badge/Made%20With-OpenCV-red">
 </p>
 <p align="center">A collection of Computer Vision related projects created primarily using OpenCV</p>
 
@@ -39,6 +39,7 @@ __Code:__
 __Results:__
 
 <img src="1_Face_Detection_with_OpenCV_and_Deep_Learning/results/img_1_res.png" width="500">
+
 <img src="1_Face_Detection_with_OpenCV_and_Deep_Learning/results/img_2_res.png" width="500">
 
 ## Face Blurring
@@ -60,11 +61,13 @@ __Results:__
 - __Gaussian Blur:__
 
   <img src="2_Face_Blurring/results/img_01_res1.png" width="800">
+  
   <img src="2_Face_Blurring/results/img_02_res1.png" width="800">
 
 - __Pixelated Blur:__
 
   <img src="2_Face_Blurring/results/img_01_res2.png" width="800">
+  
   <img src="2_Face_Blurring/results/img_02_res2.png" width="800">
 
 ## Document Scanner
@@ -103,7 +106,7 @@ __Code:__
 [Code for the OMR Test Grader](4_OMR_Test_Grader/test_grader.py)
 
 __Results:__
-||||
+| []() | | |
 | :---: | :---: | :---: |
 | <img src="4_OMR_Test_Grader/results/test_01_res.png" width="250"> | <img src="4_OMR_Test_Grader/results/test_02_res.png" width="250"> | <img src="4_OMR_Test_Grader/results/test_03_res.png" width="250"> |
 | <img src="4_OMR_Test_Grader/results/test_04_res.png" width="250"> | <img src="4_OMR_Test_Grader/results/test_05_res.png" width="250"> | <img src="4_OMR_Test_Grader/results/test_06_res.png" width="250"> |
@@ -140,9 +143,11 @@ __Code:__
 __Results:__
 
 <img src="6_Object_Size_Measurement/results/example_01_res.png" width="700">
+
 <img src="6_Object_Size_Measurement/results/example_02_res.png" width="700">
 
 <img src="6_Object_Size_Measurement/results/example_03_res.png" width="700">
+
 <img src="6_Object_Size_Measurement/results/example_04_res.png" width="700">
 
 ## Facial Landmarks Detector
@@ -160,6 +165,7 @@ __Code:__
 __Results:__
 
 <img src="7_Facial_Landmarks_Detector/results/img_01_res.png" width="500">
+
 <img src="7_Facial_Landmarks_Detector/results/img_02_res.png" width="500">
 
 ## Eye Blink Detector
